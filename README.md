@@ -164,6 +164,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - Figma
 - Fastify
+- JavaScript
 - Typescript
 - NodeJS
 - ReactJS
@@ -174,7 +175,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - SQL
 - Git e Github
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,figma,fastify,nodejs,react,tailwind,expo,prisma,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,ts,nodejs,react,tailwind,prisma,mysql,git,github)](https://skillicons.dev)
 
 ## 🎨 Layout
 
