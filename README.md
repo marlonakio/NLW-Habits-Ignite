@@ -169,13 +169,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - NodeJS
 - ReactJS
 - React Native
+- Vite
 - Tailwind CSS
 - Expo
 - Prisma
 - SQLite
 - Git e Github
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,ts,nodejs,react,tailwind,prisma,sqlite,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,ts,nodejs,react,vite,tailwind,prisma,sqlite,git,github)](https://skillicons.dev)
 
 ## 🎨 Layout
 
