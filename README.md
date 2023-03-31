@@ -172,10 +172,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Tailwind CSS
 - Expo
 - Prisma
-- SQL
+- SQLite
 - Git e Github
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,ts,nodejs,react,tailwind,prisma,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,ts,nodejs,react,tailwind,prisma,sqlite,git,github)](https://skillicons.dev)
 
 ## 🎨 Layout
 
